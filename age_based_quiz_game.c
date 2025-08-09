@@ -150,7 +150,7 @@ int easy(char icans[10], int *wa)
         ans=con(ans);
         anse[++i]=ans;
         
-        printf("\n4. What can you use to draw on the computer?\nA) Paint Program\nB) Calculator\nC) Clock D) Files\n---->>>>");
+        printf("\n4. What can you use to draw on the computer?\nA) Paint Program\nB) Calculator\nC) Clock \nD) Files\n---->>>>");
         scanf(" %c",&ans);
         ans=con(ans);
         anse[++i]=ans;
