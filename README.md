@@ -1,11 +1,11 @@
 # AsenaXDarkDevil
 # 🎮 Age-Based Quiz Game (C Mini Project)
 
-👥 **Collaborators**:  
+👥 **Collaborators**:
 - Rohit - [GitHub: @DarkDevil1613](https://github.com/DarkDevil1613)  
 - Akhil - [GitHub: @asenaislive](https://github.com/asenaislive)  
-- Question Contributor: [GitHub: @jyoshnavi2416](https://github.com/jyoshnavi2416)  
-- Tester : [GitHub: @snehapatnala1316](http://github.com/snehapatnala1316)
+- Debugger : [GitHub: @jyoshnavi2416](https://github.com/jyoshnavi2416)  
+- Code Tester : [GitHub: @snehapatnala1316](http://github.com/snehapatnala1316)
 
 📌 **Description**:  
 A simple C mini project that runs a multiple-choice quiz. The difficulty is automatically chosen based on the user’s age input.
