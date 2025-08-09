@@ -8,7 +8,7 @@
 - Code Tester : [GitHub: @snehapatnala1316](http://github.com/snehapatnala1316)
 
 📌 **Description**:  
-A simple C mini project that runs a multiple-choice quiz. The difficulty is automatically chosen based on the user’s age input.
+A simple C mini project that runs a multiple-choice quiz. The difficulty is automatically chosen based on the user’s age input. You get 3 tries per game.
 
 🧠 **Difficulty Levels**:
 - **Easy**: Age 3–10  
