@@ -383,4 +383,4 @@ void main()
     }
     printf(RESET"\n\n\n");
     printf(BLUE"*************THANK YOU FOR PLAYING************"RESET);
-} 
+}
