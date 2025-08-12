@@ -1,5 +1,4 @@
 //Simple Quiz Game
-//Under Development
 //Made by @asenaislive and @DarkDevil.
 //Testing by @jyoshnavi2416 and Debugging by @snehapatnala1316
 //Difficulty is chosen by age.
